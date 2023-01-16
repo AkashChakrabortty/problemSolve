@@ -15,6 +15,5 @@ int main()
     for( int j=0;j<20;j++){
         cout << "N[" << j << "] = " << x[j] << endl;
     }
-
     return 0;
 }
